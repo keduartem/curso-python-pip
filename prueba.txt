@@ -1,6 +1,6 @@
-este archivo es una prueba de texto
+este archivo es una prueba de texto para el primer Commit
 
 acá se ingresan nuevos cambios al archivo como parte de la prueba
-by kevin
+by kevin para el segundo Commit
 
-esta es una tercera prueba de los comandos en linux
+esta es una tercera prueba de los comandos en linux para el tercer Commit
