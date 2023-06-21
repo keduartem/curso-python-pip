@@ -1,1 +1,3 @@
 Archivo de prueba para verificar la conexión entre Git Local con Github
+
+Esta linea corresponde a una modificación directamente desde la web
